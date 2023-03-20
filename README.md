@@ -6,6 +6,7 @@ I'm Micael from Argentina. I really enjoy learning languages and frameworks like
 ## About me
 - 🌱 I’m currently learning Testing and Python 
 - 📫 How to reach me: micaelcapo1316@gmail.com 
+- 💻 My Portfolio (In spanish at the moment): https://micalabz.github.io/
 - 🤝 I like teamwork, being able to share ideas, carry them out and learn something new from the people I work with on a daily basis.
 
 ## Skills and Experience
@@ -37,6 +38,7 @@ Soy Micael de Argentina. Me gusta mucho aprender lenguajes y frameworks como Jav
 
 - 🌱 Actualmente estoy aprendiendo Testing y Python  
 - 📫 Cómo contactar conmigo: micaelcapo1316@gmail.com 
+- 💻 My Portfolio: https://micalabz.github.io/
 - 🤝 Me gusta el trabajo en equipo, poder compartir ideas, llevarlas a cabo y aprender algo nuevo de las personas con las que trabajo a diario.
 
 ## Habilidades y Experiencia
